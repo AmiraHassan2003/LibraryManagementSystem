@@ -1,0 +1,14 @@
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+D:\FullStack\.Net\Codes\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll

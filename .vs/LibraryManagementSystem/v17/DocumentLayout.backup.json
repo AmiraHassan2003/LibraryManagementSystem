@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\fullstack\\.net\\codes\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6E465-4EBE-4A94-B83F-3A0236A16C94}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Librarian.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:45:13.908Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:09:06.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryUser.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryUser.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:11:26.223Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryCard.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:10:08.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Owner.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Owner.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Owner.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\Owner.cs*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA7wF0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:35:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:48:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:41:11.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\User.cs",
+              "ToolTip": "D:\\FullStack\\.Net\\Codes\\LibraryManagementSystem\\LibraryManagementSystem\\User.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:48:34.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
